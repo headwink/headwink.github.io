@@ -1,3 +1,21 @@
-# [万物起源](https://headwink.github.io/basic)
-# [深思熟虑](https://headwink.github.io/deepthinking)
-# [放飞自我](https://headwink.github.io/whimsical)
+## 这是谁？
+这个账户是一个小号，小号的好处就是可以说一些大号不好说的话。
+## 这里有什么？
+这里有我无聊时的思考（瞎想）  
+然后就啥都没有了
+## 为什么这么丑？
+~~因为菜啊~~因为文字和思想比外貌更重要啦
+## 怎么联系作者？
+很简单，在github里提[issue](https://github.com/headwink/headwink.github.io/issues)就好啦
+## 要怎样阅读呢？
+主要分为三个板块啦  
+* [万物起源](https://headwink.github.io/basic)  
+* [深思熟虑](https://headwink.github.io/deepthinking)  
+* [放飞自我](https://headwink.github.io/whimsical)  
+
+万物起源呢主要是我思考的一些基础方法吧，建议可以先读一读里面的内容啦，能够知道我是怎么开脑洞的  
+深思熟虑呢是一些比较严肃的思考问题，思考时间相对也多一些，也是更希望能和人探讨的问题啦  
+至于放飞自我嘛，大多就是突发奇想啦，不保证内容深度，更不保证真实度，仅供娱乐
+## 最后的声明
+所有内容，**不保证**正确，**不保证**及时，更**不保证**专业（~~是根本不专业啦~~）。阅读请带上您充足的智商理性判断
+## 谢谢阅读
